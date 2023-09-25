@@ -8,7 +8,7 @@ This website helps create a unique and randomly generated password based off the
 
 ![Password Generator](./Assets/03-javascript-homework-demo.png)
 
-Deployed Website: https://afontana405.github.io/Horiseon-Refactor/
+Deployed Website: https://afontana405.github.io/password-generator/
 ## Credits
 
 The starter code was sourced from Xandromus's github friendly-parakeet repository which can be found below
